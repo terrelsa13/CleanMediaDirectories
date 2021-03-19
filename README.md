@@ -11,3 +11,7 @@ Tip - Put the season folder path above the TV Series path.
 
 Crontab Example (run script every Monday @1330hrs [aka 1:30pm]):
 30 13 * * 1 /opt/CleanMediaLibrary/CleanMediaDirectories.sh #> /var/log/CleanMediaDirectories.log 2>&1#
+
+If you would like to show support, please use the button below.
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=4CFFHMJV3H4M2)
